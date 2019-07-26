@@ -1,2 +1,2 @@
-# .github.io
-Supposed to be personal portfolio
+# trionfante.github.io
+idea dump by Melvin Ha
