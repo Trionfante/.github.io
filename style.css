@@ -6,7 +6,7 @@ body{
     color: white;
     background-color: rgba(0, 0, 0, 0.75);
     margin: 0 auto;
-    width: 75%;
+    width: 800px;
 }
 
 .content{
@@ -62,9 +62,4 @@ body h1{
 p{
     text-indent: 30pt;
     text-align: justify;
-}
-
-blockquote{
-    color: rgb(253, 230, 203);
-    font-size: 100px;
 }
