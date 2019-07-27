@@ -1,0 +1,31 @@
+body{
+    background-color: white;
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.postContainer{
+    text-align: center;
+    color: white;
+    background-color: rgba(0, 0, 0, 0.75);
+    margin: 0 auto;
+    width: 50%;
+    height: 100%;
+}
+
+.date{
+    padding-top: 10px;
+    padding-right: 10px;
+    text-align: right;
+}
+
+.title{
+    font-family: 'Times New Roman', Times, serif;
+    text-align: left;
+    margin-left: 5%;
+}
+
+.content{
+    padding: 20px;
+    text-align: justify;
+}
