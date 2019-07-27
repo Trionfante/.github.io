@@ -53,9 +53,14 @@ h1{
 
 body h1{
     color: white;
+    padding: 0px;
 }
 
 p{
-    text-indent: 15pt;
+    text-indent: 30pt;
     text-align: justify;
+}
+
+blockquote{
+    color: bisque;
 }
