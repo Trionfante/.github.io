@@ -6,7 +6,7 @@ body{
     color: white;
     background-color: rgba(0, 0, 0, 0.75);
     margin: 0 auto;
-    width: 50%;
+    width: 75%;
 }
 
 .content{
@@ -15,6 +15,7 @@ body{
 }
   
 .Title-Container{
+    width: 500px;
     align-content: center;
     display: grid;
     grid-template-columns: 150px 1fr 1fr;
