@@ -15,18 +15,17 @@
                 <i>I hate this whole thing</i>
             </div>
             <div class="Image">
-    
             </div>
         </div>
             <hr>
         <div class="content">
-            <p>
-                At one point i got stuck and asked my friend who've been into coding stuff since senior high.
-                He asked me back,
-                "Are you sure? You want me to tell you and lose the joy of finding it out by yourself"
-                I paused a bit, and think to myself;
-                "Yeah, no, I've never find the joy in this anyway."
-            </p>
+            >   At one point i got stuck and asked my friend who've been into coding stuff since senior high.
+            >   He asked me back,
+            >   "Are you sure? You want me to tell you and lose the joy of finding it out by yourself"
+            >   I paused a bit, and think to myself;
+            >   "Yeah, no, I've never find the joy in this to begin with."
+            >   A quick look in my head, I know that my joy isn't about solving this puzzle, it's about when i get to realize my idea.
+            >   I might not fit precisely in this field, but I know I can do it. And that offset? I'm glad I have that sharp edge.
         </div>
     </div>
 </body>
