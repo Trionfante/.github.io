@@ -34,7 +34,7 @@ body{
   
 .Title{
     grid-area: 1 / 2 / 3 / 3;
-    font-family: 'Times New Roman', Times, serif;
+    font-family: Georgia, 'Times New Roman', Times, serif;
     text-align: left;
     padding-left: 15px;
     padding-bottom: 10px;
@@ -65,4 +65,9 @@ p{
 
 .quote{
     text-indent: 60pt;
+}
+
+.patnolpat{
+    text-align: center;
+    font-family: Georgia;
 }

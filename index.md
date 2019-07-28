@@ -17,7 +17,6 @@
             <div class="Image">
             </div>
         </div>
-            <hr>
         <div class="content">
             <p>At one point i got stuck and asked my friend who've been into coding stuff since senior high.
             He asked me back;</p>
@@ -39,7 +38,6 @@
             <div class="Image">
             </div>
         </div>
-            <hr>
         <div class="content">
             <p>After my second semester, I made up my mind that the college I attended was somewhat kind of stupid. I didn't take the 3rd semester and all hell set loose. With my parents, my family, even my friend. One of them said to me that I am running away. And well she might be right, but i don't think that running away from that path is wrong. The path that i knew well would waste a lot more than what I wasted in that two semesters.</p>
         </div>
