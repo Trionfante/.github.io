@@ -27,6 +27,21 @@
             <p>A quick look in my head, I know that my joy isn't about solving this puzzle, it's about when i get to realize my idea.
             As unfortunately as I might not fit precisely in this field, I know I can do it. And that offset? I'm glad I have that sharp edge.</p>
         </div>
+        <div class="Title-Container">
+            <div class="Date">
+                Sunday<br>July 28th 2019
+            </div>
+            <div class="Title">
+                <h1>Back Then</h1>
+                <i>I still honestly think I did the right thing</i>
+            </div>
+            <div class="Image">
+            </div>
+        </div>
+            <hr>
+        <div class="content">
+            <p>After my second semester, I made up my mind that the college I attended was somewhat kind of stupid. I didn't take the 3rd semester and all hell set loose. With my parents, my family, even my friend. One of them said to me that I am running away. And well she might be right, but i don't think that running away from that path is wrong. The path that i knew well would waste a lot more than what I wasted in that two semesters.</p>
+        </div>
     </div>
 </body>
 </html>
