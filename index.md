@@ -26,8 +26,7 @@
             <p><i class="quote">"Yeah, no, I've never find the joy in this to begin with."</i></p>
             <p>A quick look in my head, I know that my joy isn't about solving this puzzle, it's about when i get to realize my idea.
             As unfortunately as I might not fit precisely in this field, I know I can do it. And that offset? I'm glad I have that sharp edge.</p>
-        </div>
-        <div class="Image">
+            <hr>
         </div>
         <div class="Title-Container">
             <div class="Date">
