@@ -30,7 +30,7 @@ body{
     font-family: Georgia, 'Times New Roman', Times, serif;
     text-align: right;
     padding-right: 15px;
-    padding-top: 40px;
+    padding-top: 45px;
 }
   
 .Title{
@@ -51,7 +51,7 @@ h1{
 }
 
 a{
-    color: black;
+    color: whitesmoke;
 }
 
 body h1{
@@ -71,4 +71,17 @@ p{
 .patnolpat{
     text-align: center;
     font-family: Georgia;
+}
+
+.navigator{
+    background-color: rgba(0, 0, 0, 0.5);
+    color: whitesmoke;
+    padding: 10px;
+    position: fixed;
+    right: 0;
+    margin-right: 20px;
+    margin-top: 10%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    overflow: auto;
 }
